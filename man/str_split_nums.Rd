@@ -19,6 +19,6 @@ Splits string and returns as numeric
 }
 \examples{
 x <- "1,2,3"
-str_split_comma(x, pattern = ",")
+str_split_nums(x, pattern = ",")
 
 }
